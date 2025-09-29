@@ -1,8 +1,8 @@
 # 🌐 Manisha Sharma - Personal Portfolio
 
-![GitHub repo size](https://img.shields.io/github/repo-size/MANISHA088/portfolio-website)
-![GitHub stars](https://img.shields.io/github/stars/MANISHA088/portfolio-website?style=social)
-![GitHub forks](https://img.shields.io/github/forks/MANISHA088/portfolio-website?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/MANISHA088/My-Portfolio/)
+![GitHub stars](https://img.shields.io/github/stars/MANISHA088/My-Portfolio?style=social)
+![GitHub forks](https://img.shields.io/github/forks/MANISHA088/My-Portfolio?style=social)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/manisha-da08/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/MANISHA088)
 
@@ -15,7 +15,8 @@ A modern and responsive **personal portfolio website** built using **HTML, CSS, 
 ![Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
 ![Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
 
-🔗 [Live Demo](https://MANISHA088.github.io/portfolio-website/)
+🔗 [Live Demo](https://MANISHA088.github.io/My-Portfolio/)
+
 
 ---
 
