@@ -1,6 +1,6 @@
 # 🌐 Manisha Sharma - Personal Portfolio
 
-![GitHub repo size](https://img.shields.io/github/repo-size/MANISHA088/My-Portfolio/)
+![GitHub repo size](https://img.shields.io/github/repo-size/MANISHA088/My-Portfolio)
 ![GitHub stars](https://img.shields.io/github/stars/MANISHA088/My-Portfolio?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/MANISHA088/My-Portfolio?style=social)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/manisha-da08/)
