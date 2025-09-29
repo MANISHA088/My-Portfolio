@@ -3,7 +3,7 @@
   <a href="https://MANISHA088.github.io/My-Portfolio/" target="_blank">Manisha</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <img alt="Demo" src="./img/img.jpeg" />
 </div>
 
 # 
@@ -20,9 +20,11 @@ A modern and responsive **personal portfolio website** built using **HTML, CSS, 
 
 ## 📸 Demo
 
-![Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+![Desktop Demo](./img/desktop.png "Desktop Demo")
 
+<!--<p align="center">
+  <img src="./img/mobile.jpeg" width="400"  alt ="Mobile Demo"/>
+</p> -->
 
 ---
 
