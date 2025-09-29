@@ -1,2 +1,79 @@
-# My-Portfolio
-Portfolio website showcasing projects, skills, and experience in business management, data analysis, and digital innovation. Built with HTML, CSS, and JavaScript, this repository highlights my academic work, internships, and tutoring experience. Designed to demonstrate my capabilities in data-driven business strategy and technology integration.
+# 🌐 Manisha Sharma - Personal Portfolio
+
+![GitHub repo size](https://img.shields.io/github/repo-size/MANISHA088/portfolio-website)
+![GitHub stars](https://img.shields.io/github/stars/MANISHA088/portfolio-website?style=social)
+![GitHub forks](https://img.shields.io/github/forks/MANISHA088/portfolio-website?style=social)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/manisha-da08/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/MANISHA088)
+
+A modern and responsive **personal portfolio website** built using **HTML, CSS, and JavaScript**, designed to showcase my skills, education, experience, projects, and professional journey.
+
+---
+
+## 📸 Demo
+
+![Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
+![Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+
+🔗 [Live Demo](https://MANISHA088.github.io/portfolio-website/)
+
+---
+
+## ✨ Features
+
+⚡️ Fully Responsive Design  
+⚡️ Smooth Scroll & Section Navigation  
+⚡️ Animated Skill Progress Bars  
+⚡️ Tabbed Experience/Education Section  
+⚡️ Interactive Hover Effects  
+⚡️ Contact Form & Social Links  
+
+---
+
+## Why do you need a portfolio?
+
+- Professional way to showcase your work
+- Increases your visibility and online presence
+- Shows you’re more than just a resume
+
+## Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+
+
+## 📂 Project Structure
+
+```bash
+├── index.html       # Main HTML file
+├── style.css        # Styling (colors, layout, responsiveness)
+├── script.js        # Interactivity (tabs, animations, navbar)
+└── assets/          # Images, certificates, and other media
+```
+
+## Installing vCard
+
+To install, follow these steps:
+
+Linux and macOS:
+
+```bash
+sudo git clone https://github.com/MANISHA088/My-Portfolio.git
+```
+
+Windows:
+
+```bash
+git clone https://github.com/MANISHA088/My-Portfolio.git
+```
+
+## 📬 Contact
+
+If you want to contact me you can reach me at [Twitter](https://www.x.com/codewithsadee_), [Email](mail to: manishashr2001@gmail.com ), [LinkedIn](https://www.linkedin.com/in/manisha-da08)
+
+## License
+
+MIT
+
+### Would you like me to also **add a "Contributing" section** (like in open-source repos) or keep it minimal since it’s a personal portfolio?
