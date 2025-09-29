@@ -2,11 +2,6 @@
   🌐 Manisha Sharma - Personal Portfolio <br/>
   <a href="https://MANISHA088.github.io/My-Portfolio/" target="_blank">Manisha</a>
 </h2>
-<div align="center">
-  <img alt="Demo" src="./img/img.jpeg" />
-</div>
-
-# 
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/MANISHA088/My-Portfolio)
 ![GitHub stars](https://img.shields.io/github/stars/MANISHA088/My-Portfolio?style=social)
@@ -14,9 +9,22 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/manisha-da08/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/MANISHA088)
 
+<div align="center">
+  <img alt="Demo" src="./img/img.jpeg"/>
+</div>
+
+# 
+
 A modern and responsive **personal portfolio website** built using **HTML, CSS, and JavaScript**, designed to showcase my skills, education, experience, projects, and professional journey.
 
 ---
+
+## Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+
 
 ## 📸 Demo
 
@@ -28,16 +36,7 @@ A modern and responsive **personal portfolio website** built using **HTML, CSS, 
 
 ---
 
-## ✨ Features
 
-⚡️ Fully Responsive Design  
-⚡️ Smooth Scroll & Section Navigation  
-⚡️ Animated Skill Progress Bars  
-⚡️ Tabbed Experience/Education Section  
-⚡️ Interactive Hover Effects  
-⚡️ Contact Form & Social Links  
-
----
 
 ## Why do you need a portfolio?
 
@@ -45,11 +44,6 @@ A modern and responsive **personal portfolio website** built using **HTML, CSS, 
 - Increases your visibility and online presence
 - Shows you’re more than just a resume
 
-## Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
 
 ## 📂 Project Structure
