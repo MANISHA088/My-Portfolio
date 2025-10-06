@@ -73,7 +73,8 @@ git clone https://github.com/MANISHA088/My-Portfolio.git
 
 ## 📬 Contact
 
-If you want to contact me you can reach me at [Twitter](https://www.x.com/codewithsadee_), [Email](mail to: manishashr2001@gmail.com ), [LinkedIn](https://www.linkedin.com/in/manisha-da08)
+If you want to contact me you can reach me at 
+[Email](mail to:manishashr2001@gmail.com ), [LinkedIn](https://www.linkedin.com/in/manisha-da08)
 
 ## License
 
