@@ -378,6 +378,13 @@ nav.scrolled {
     color: var(--navy);
 }
 
+.avatar-img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
 .about-sidebar h3 {
     font-size: 1.5rem;
     margin-bottom: 0.5rem;
@@ -1159,8 +1166,11 @@ textarea.form-input {
 /* Footer */
 .footer {
     background-color: rgba(17, 34, 64, 0.8);
+    color: #fff;
     padding: 2rem;
     text-align: center;
+    font-family: "Poppins", sans-serif;
+    position: relative;
 }
 
 .footer p {
@@ -1172,6 +1182,143 @@ textarea.form-input {
     font-size: 0.9rem;
     color: var(--gray);
 }
+
+/* Footer Section */
+.footer {
+  background: #0b1e3f; /* deep navy blue */
+  color: #fff;
+  padding: 40px 20px;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  position: relative;
+}
+
+.footer .container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  max-width: 1200px;
+  margin: auto;
+}
+
+.footer .box {
+  flex: 1 1 300px;
+  margin: 20px;
+}
+
+.footer .box h3 {
+  font-size: 1.4rem;
+  margin-bottom: 15px;
+  color: #00b8d4;; /* golden highlight */
+  text-transform: capitalize;
+}
+
+.footer .box p {
+  font-size: 0.95rem;
+  line-height: 1.6;
+  color: #ccc;
+}
+
+.footer .box a {
+  display: block;
+  text-decoration: none;
+  color: #ccc;
+  margin: 8px 0;
+  transition: 0.3s;
+  font-size: 0.95rem;
+}
+
+.footer .box a:hover {
+  color: #829bec;;
+  padding-left: 6px;
+}
+
+.footer .box i {
+  margin-right: 8px;
+  color: #00b8d4;;
+}
+
+/* Social Icons */
+.footer .share {
+  margin-top: 15px;
+}
+
+.footer .share a {
+  display: inline-block;
+  width: 38px;
+  height: 38px;
+  line-height: 38px;
+  background: #fff;
+  color: #0b1e3f;
+  border-radius: 50%;
+  font-size: 1rem;
+  margin: 0 6px;
+  transition: all 0.3s ease;
+}
+
+.footer .share a:hover {
+  background: #1b849e;;
+  color: #0b1e3f;
+  transform: scale(1.1);
+}
+
+/* Credit */
+.footer .credit {
+  font-size: 0.95rem;
+  margin-top: 25px;
+  color: #aaa;
+}
+
+.footer .credit a {
+  color: #00b8d4;;
+  text-decoration: none;
+}
+
+.footer .credit a:hover {
+  text-decoration: underline;
+}
+
+/* Tagline */
+.footer-tagline {
+  margin-top: 5px;
+  font-size: 0.9rem;
+  color: #bbb;
+}
+
+#scroll-top {
+    position: fixed;
+    right: 30px;
+    bottom: 30px;
+    z-index: 999;
+    font-size: 2.5rem;
+    color: var(--cyan);
+    cursor: pointer;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.3s;
+}
+#scroll-top.show {
+    opacity: 1;
+    pointer-events: auto;
+}
+
+
+/* Responsive */
+@media (max-width: 768px) {
+  .footer .container {
+    flex-direction: column;
+    text-align: left;
+  }
+
+  .footer .box {
+    margin: 10px 0;
+  }
+
+  .footer .share a {
+    margin: 4px;
+  }
+}
+
 
 /* Responsive Design */
 @media (max-width: 768px) {
@@ -1291,4 +1438,12 @@ textarea.form-input {
     .project-buttons {
         flex-direction: column;
     }
+}
+
+/* Tawk.to Widget Custom Container */
+iframe[title="chat widget"] {
+    background: linear-gradient(135deg, #000080, #6d28d9) !important;
+    color: white !important;
+    box-shadow: 0 4px 15px rgba(124, 58, 237, 0.3) !important;
+    border-radius: 15px !important;
 }
